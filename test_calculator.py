@@ -1,4 +1,4 @@
-# https://github.com/ryukaishen/lab10-AT-AT/edit/main/calculator.py
+# https://github.com/ryukaishen/lab10-AT-AT/tree/main
 # Partner 1: Adam Tang
 # Partner 2: Adam Tang (solo)
 import unittest
